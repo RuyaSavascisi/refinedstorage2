@@ -149,7 +149,7 @@
   "gui.refinedstorage.relay.pass_through": "Doğrudan geçiş",
   "gui.refinedstorage.relay.pass_through.help": "Bu cihazın tüm giriş ağı sinyalini olduğu gibi geçirmesi gerekip gerekmediği. Bileşenleri çıkış ağına seçici olarak maruz bırakmak için bunu kapatın.",
   "gui.refinedstorage.relay.pass_energy": "Enerjiyi geçir",
-  "gui.refinedstorage.relay.pass_energy.help": "Bu cihazın enerji tamponunu giriş ağından çıkış ağına geçirip geçirmeyeceği.",
+  "gui.refinedstorage.relay.pass_energy.help": "Bu cihazın kısa süreli toplanmış enerjiyi giriş ağından çıkış ağına geçirip geçirmeyeceği.",
   "gui.refinedstorage.relay.pass_storage": "Depoyu geçir",
   "gui.refinedstorage.relay.pass_storage.help": "Bu cihazın depolamayı giriş ağından çıkış ağına geçirmesi gerekip gerekmediği.",
   "gui.refinedstorage.relay.pass_security": "Güvenliği geçir",
